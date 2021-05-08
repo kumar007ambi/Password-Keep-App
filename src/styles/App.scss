@@ -1,0 +1,15 @@
+.icons{
+    opacity: 0;
+}
+
+tr:hover .icons{
+    opacity: 1;
+}
+
+tbody td a{
+    color:rgb(0, 222, 252);
+}
+
+tbody td a:hover{
+    color:rgb(7, 7, 7);
+}
